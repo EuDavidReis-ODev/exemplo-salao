@@ -4,7 +4,7 @@ Este é um site demo para salões de beleza, é baseado em um tema [Bootstrap](h
 
 ## Pré-Visualização
 
-[![Salao Exemplo](/home/megatron/Projetos/Sites/comércio_exemplo/img/salao-exemplo.png)](https://startbootstrap.github.io/startbootstrap-business-casual/)
+[![Salao Exemplo](./img/salao-exemplo.png)](https://startbootstrap.github.io/startbootstrap-business-casual/)
 
 Aqui você pode ver uma preview do tema original **[View Live Preview](https://startbootstrap.github.io/startbootstrap-business-casual/)**
 
