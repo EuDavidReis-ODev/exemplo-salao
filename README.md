@@ -4,15 +4,13 @@ Este é um site demo para salões de beleza, é baseado em um tema [Bootstrap](h
 
 ## Pré-Visualização
 
-[![Business Casual Preview](https://assets.startbootstrap.com/img/screenshots/themes/business-casual.png)](https://startbootstrap.github.io/startbootstrap-business-casual/)
+[![Salao Exemplo](/home/megatron/Projetos/Sites/comércio_exemplo/img/salao-exemplo.png)](https://startbootstrap.github.io/startbootstrap-business-casual/)
 
 Aqui você pode ver uma preview do tema original **[View Live Preview](https://startbootstrap.github.io/startbootstrap-business-casual/)**
 
 ## Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/StartBootstrap/startbootstrap-business-casual/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-business-casual.svg)](https://www.npmjs.com/package/startbootstrap-business-casual)
-[![Build Status](https://travis-ci.org/StartBootstrap/startbootstrap-business-casual.svg?branch=master)](https://travis-ci.org/StartBootstrap/startbootstrap-business-casual)
 [![dependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-business-casual/status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-business-casual)
 [![devDependencies Status](https://david-dm.org/StartBootstrap/startbootstrap-business-casual/dev-status.svg)](https://david-dm.org/StartBootstrap/startbootstrap-business-casual?type=dev)
 
